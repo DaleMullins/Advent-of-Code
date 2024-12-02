@@ -1,1 +1,13 @@
 input.txt
+*.bak
+
+# Delphi ignores
+Win32/
+Win64/
+*.exe
+*.res
+*.identcache
+*.dproj.local
+__history/
+__recovery/
+*.~*
